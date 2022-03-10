@@ -36,6 +36,9 @@ var config = {
         "美好的事物一定会在新的一岁如约而至": "./imgs/2.jpg",
         "最后愿宝宝考研上岸！": "./imgs/6.jpg",
         "还有我真的真的很喜欢很喜欢宝宝": "./imgs/7.jpg",
+        "纪念宝宝下凡的第二十一周年": "./imgs/8.jpg",
+        "今天是没有流星也可以许愿的日子哦": "./imgs/4.jpg",
+        "宝宝今天要特别开心哦": "./imgs/5.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
@@ -46,6 +49,6 @@ var config = {
         cake_fadein: "蛋糕",
         light_candle: "蜡烛",
         wish_message: "生日快乐",
-        story: "A MESSAGE FOR YOU",
+        story: "给宝宝的消息",
     }
 };
